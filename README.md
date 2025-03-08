@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -  I’m looking to collaborate on ...
 -  C#
 -  Rust
--->
+
 📫 **How to reach me:**  
 - GitHub: [My Profile](https://github.com/09126055081)  
 - LinkedIn: 
